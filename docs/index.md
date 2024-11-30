@@ -13,7 +13,7 @@ Welcome to the official repository of **My Country Mobile**, a telecom innovatio
 
 ## About
 
-**My Country Mobile** is dedicated to revolutionizing telecom operations with cutting-edge AI tools designed to support businesses in various aspects. Our comprehensive solutions enable telecom companies to optimize workflows, manage customer interactions, and stay competitive in a rapidly evolving market.
+**[My Country Mobile](https://www.mycountrymobile.com/)** is dedicated to revolutionizing telecom operations with cutting-edge AI tools designed to support businesses in various aspects. Our comprehensive solutions enable telecom companies to optimize workflows, manage customer interactions, and stay competitive in a rapidly evolving market.
 
 ## Features
 
@@ -55,6 +55,10 @@ We welcome contributions! If you’d like to help improve **My Country Mobile**,
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Submit a pull request with a description of your changes.
+
+**Support**
+
+If you discover any issues, please email us on support@mycountrymobile.com instead of using the issue tracker.
 
 ## License
 
