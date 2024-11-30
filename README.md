@@ -10,16 +10,17 @@ Welcome to the official repository of **My Country Mobile**, a telecom innovatio
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support](#support)
 
 ## About
 
-**[My Country Mobile](https://www.mycountrymobile.com/)** is dedicated to revolutionizing telecom operations with cutting-edge AI tools designed to support businesses in various aspects. Our comprehensive solutions enable telecom companies to optimize workflows, manage customer interactions, and stay competitive in a rapidly evolving market.
+**[My Country Mobile](https://www.mycountrymobile.com/)** is dedicated to revolutionizing telecom operations with cutting-edge AI tools designed to support businesses in various aspects. Our comprehensive solutions help telecom companies optimize workflows, manage customer interactions, and stay competitive in a rapidly evolving market.
 
 ## Features
 
-- **Virtual Number Provider**: Cost-effective and reliable international calling services.
+- **Virtual Number Provider**: Cost-effective and reliable international calling services for businesses.
 - **Bulk SMS**: Engage with your audience via targeted SMS campaigns.
-- **VOIP Solutions**: Simplify the process for users to add credit or purchase services.
+- **VOIP Solutions**: Scalable and flexible voice solutions that simplify communication for businesses.
 
 ## Installation
 
@@ -37,11 +38,21 @@ To get started with **My Country Mobile**, follow these steps:
     cd my-country-mobile
     ```
 
-3. Install dependencies (if applicable):
+3. Install dependencies (depending on your tech stack, e.g., Node.js, Python, etc.):
+
+    - For **Node.js**:
 
     ```bash
-    npm install   # or another installation command depending on your tech stack
+    npm install
     ```
+
+    - For **Python** (if applicable):
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Additional setup steps (e.g., database setup, environment variables) may be required depending on your project.
 
 ## Usage
 
@@ -52,13 +63,13 @@ Once installed, you can use the various tools and services provided by **My Coun
 We welcome contributions! If you’d like to help improve **My Country Mobile**, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch.
+2. Create a new branch for your changes.
 3. Make your changes and commit them.
 4. Submit a pull request with a description of your changes.
 
-**Support**
+## Support
 
-If you discover any issues, please email us on support@mycountrymobile.com instead of using the issue tracker.
+If you discover any issues, please email us at [support@mycountrymobile.com](mailto:support@mycountrymobile.com) instead of using the issue tracker.
 
 ## License
 
