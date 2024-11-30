@@ -1,0 +1,14 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Declare files that should always be treated as binary.
+*.jpg binary
+*.png binary
+*.gif binary
+
+# Set merge behavior for certain files.
+*.md merge=union
+
+# Customize for specific file types (e.g., PHP, JS, or other)
+*.php linguist-language=PHP
+*.js linguist-language=JavaScript
