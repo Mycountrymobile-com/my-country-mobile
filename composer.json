@@ -1,6 +1,7 @@
 {
-  "name": "my-country-mobile/laravel-notification-channel-textlocal",
+  "name": "my-country-mobile/my-country-mobile",
   "description": "A Laravel Notification Channel for sending messages via Textlocal.",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -18,11 +19,18 @@
       "MyCountryMobile\\TextlocalChannel\\": "src/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "MyCountryMobile\\TextlocalChannel\\Tests\\": "tests/"
+    }
+  },
   "extra": {
     "laravel": {
       "providers": [
         "MyCountryMobile\\TextlocalChannel\\TextlocalServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
