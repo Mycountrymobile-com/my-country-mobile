@@ -1,6 +1,6 @@
 <?php
 
-namespace MyCountryMobile;
+namespace MyCountryMobile\TextlocalChannel\User;
 
 class User
 {

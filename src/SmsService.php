@@ -5,7 +5,7 @@ namespace MyCountryMobile;
 use GuzzleHttp\Client;
 use Psr\Log\LoggerInterface;
 
-class SmsService
+class MyCountryMobile\TextlocalChannel\SmsService
 {
     protected $client;
     protected $apiKey;
